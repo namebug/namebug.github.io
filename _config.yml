@@ -1,13 +1,13 @@
 # Site settings
-title: Su Blog
-SEOTitle: Su的博客 | Su Blog
+title: Knight0 Blog
+SEOTitle: Knight0的博客 | Knight0 Blog
 header-img: img/post-bg-desk.jpg
 email: 3480805904@qq.com
 description: "初心易得，始终难守"
-keyword: "Su Blog"
+keyword: "Knight0 Blog"
 url: "http://namebug.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/Su/Su.github.io.git" # you code repository
+github_repo: "https://github.com/Knight0/Knight0.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -29,7 +29,7 @@ jianshu_username:
 
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+# from 2016, 'pygments' is unKnight0pported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
@@ -38,7 +38,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 # Gems
-# from PR#40, to support local preview for Jekyll 3.0
+# from PR#40, to Knight0pport local preview for Jekyll 3.0
 gems: [jekyll-paginate]
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: Su
+# disqus_username: Knight0
 
 # Gitalk
 gitalk:
   enable:   false  #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: Su.github.io    #仓库名称
-  owner: Su    #github用户名
-  admin: Su
+  repo: Knight0.github.io    #仓库名称
+  owner: Knight0    #github用户名
+  admin: Knight0
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
